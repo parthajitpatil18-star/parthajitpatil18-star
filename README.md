@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-✨ I’m a IMCA student, currently building my career in DevOps and Cloud Computing. I have hands-on experience with tools like Docker, Kubernetes, Git, and GitHub, and I enjoy automating deployment workflows and managing cloud infrastructure.
+✨ I’m a BCA student, currently building my career in DevOps and Cloud Computing. I have hands-on experience with tools like Docker, Kubernetes, Git, and GitHub, and I enjoy automating deployment workflows and managing cloud infrastructure.
 
 On the AWS side, I’ve practiced using EC2, S3, IAM, and CloudFormation to create and manage scalable cloud resources. I’m also comfortable with basic Linux commands and Python scripting for automation tasks.
 
