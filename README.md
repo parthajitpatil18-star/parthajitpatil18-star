@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+
+✨ I’m a IMCA student, currently building my career in DevOps and Cloud Computing. I have hands-on experience with tools like Docker, Kubernetes, Git, and GitHub, and I enjoy automating deployment workflows and managing cloud infrastructure.
+
+On the AWS side, I’ve practiced using EC2, S3, IAM, and CloudFormation to create and manage scalable cloud resources. I’m also comfortable with basic Linux commands and Python scripting for automation tasks.
+
+My goal is to work on real-world DevOps projects where I can contribute to infrastructure automation, CI/CD pipelines, and cloud-based deployments, while continuously learning new technologies.
+
+📩 Open to internship or entry-level opportunities in DevOps / Cloud Engineering.
+
 <!--
 **parthajitpatil18-star/parthajitpatil18-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
